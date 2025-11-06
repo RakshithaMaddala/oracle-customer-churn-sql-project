@@ -5,6 +5,8 @@ This project analyzes customer churn patterns for a telecom company using SQL on
 The goal is to identify key factors that lead to customer churn and derive insights to help retain customers.
 
 Dataset used: [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+This project utilizes a small extracted portion of the dataset to demonstrate SQL queries and data analysis concepts in Oracle Live SQL.
+You can see the data in 
 
 ---
 
