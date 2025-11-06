@@ -35,6 +35,9 @@ customer-churn-sql-analysis/
 ├── README.md # Project documentation
 └── results/ # Optional folder for screenshots of query results
 
+## Code 
+- You can view the code in 
+
 ## Insights (Example Results)
 - Month-to-month contracts have the highest churn rate.
 - Customers with Fiber optic internet churn more than DSL customers.
