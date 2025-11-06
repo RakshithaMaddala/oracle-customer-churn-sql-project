@@ -36,7 +36,7 @@ customer-churn-sql-analysis/
 └── results/ # Optional folder for screenshots of query results
 
 ## Code 
-- You can view the code in 
+- You can view the code in <a href='https://github.com/RakshithaMaddala/oracle-customer-churn-sql-project/blob/main/Telco_customer_churn.sql'>code</a>
 
 ## Insights (Example Results)
 - Month-to-month contracts have the highest churn rate.
